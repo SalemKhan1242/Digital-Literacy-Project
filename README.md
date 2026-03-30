@@ -31,9 +31,10 @@ Set up and updated profiles on platforms like GitHub, LinkedIn, and others to bu
 
 ###  Task 3 – Platforms Exploration
 
-* Completed a beginner coding challenge on a coding platform.
+* Completed a beginner coding challenge on a Hackerrank.
+* Set up and customized my GitHub profile README
+* Started building a professional online identity
 * Created a **Digital Literacy Awareness Quiz** using Google Forms.
-
  **Google Form Link:**  https://docs.google.com/forms/d/e/1FAIpQLScBeNlufhya98IItXXnTZMp2xvzwbBJVPKzi6GT7_azSaqr8Q/viewform?usp=publish-editor
 
 ---
