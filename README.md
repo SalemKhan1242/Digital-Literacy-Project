@@ -68,7 +68,7 @@ Set up and updated profiles on platforms like GitHub, LinkedIn, and others to bu
 
 ##  Tools & Platforms Used
 
-* Canva / Prezi
+* Canva
 * GitHub
 * LinkedIn
 * Google Forms
